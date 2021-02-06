@@ -241,8 +241,12 @@ footer .sign {
 @media screen and (max-width: 768px) {
 	html, body {
 		width: 375px;
-		height: 4435px; 
+	}
+
+	header {
+		width: 375px;
 		overflow-x: hidden;
+	
 	}
 
 	
